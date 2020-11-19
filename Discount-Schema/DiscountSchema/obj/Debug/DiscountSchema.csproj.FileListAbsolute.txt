@@ -1,0 +1,10 @@
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.exe.config
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.exe
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\bin\Debug\DiscountSchema.pdb
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.csprojAssemblyReference.cache
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.Form1.resources
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.Properties.Resources.resources
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.csproj.GenerateResource.cache
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.csproj.CoreCompileInputs.cache
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.exe
+D:\WIUT\FunPro\In-class-test\DiscountSchema\DiscountSchema\obj\Debug\DiscountSchema.pdb

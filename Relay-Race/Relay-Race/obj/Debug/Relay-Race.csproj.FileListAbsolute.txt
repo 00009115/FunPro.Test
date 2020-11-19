@@ -1,0 +1,10 @@
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\bin\Debug\Relay-Race.exe.config
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\bin\Debug\Relay-Race.exe
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\bin\Debug\Relay-Race.pdb
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay-Race.csprojAssemblyReference.cache
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay_Race.Form1.resources
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay_Race.Properties.Resources.resources
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay-Race.csproj.GenerateResource.cache
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay-Race.csproj.CoreCompileInputs.cache
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay-Race.exe
+D:\WIUT\FunPro\In-class-test\Relay-Race\Relay-Race\obj\Debug\Relay-Race.pdb
